@@ -64,12 +64,12 @@ h2 {
     color: hsl(0, 0%, 42%);
 }
 
-picture {
+.pictureAvatar {
     display: flex;
     margin-top: 1.3rem;
 }
 
-picture p {
+.pictureAvatar p {
     margin: 0.7rem 0rem 0rem 0.7rem;
     font-size: 0.9rem;
     font-weight: 800;
